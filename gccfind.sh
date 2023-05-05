@@ -1,5 +1,4 @@
 #!/bin/bash
-# Ori Katzir 207350612
 files=()
 case $# in
 2)
